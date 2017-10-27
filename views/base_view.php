@@ -127,7 +127,7 @@
             <a href="guide.php">guide</a> |
             <a href="faqs.php">faqs</a> |
             <a href="contact.php">contact</a> |
-            <a href="https://github.com/kaushalmeena1996/myapp-makemybot(php)">github</a>
+            <a href="https://github.com/kaushalmeena1996/myapp-makemybot-php-">github</a>
         </h4>
     </footer>
     <!-- JQUERY JS -->
