@@ -1,0 +1,8 @@
+[Fri Oct 27 2017 14:52:37 GMT+0530 (India Standard Time)]
+[02:52 PM] bot: hello guest
+[02:54 PM] user: i am kaushal
+[02:54 PM] bot: hello kaushal
+[02:55 PM] user: asdasfaf apple afasga
+[02:55 PM] bot: apples are tasty.
+[02:56 PM] user: wghsfhfshad
+[02:56 PM] bot: what?

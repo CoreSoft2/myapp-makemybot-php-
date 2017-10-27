@@ -1,0 +1,4 @@
+[Fri Oct 27 2017 14:50:26 GMT+0530 (India Standard Time)]
+[02:50 PM] bot: hello guest
+[02:51 PM] user: hello bot
+[02:51 PM] bot: hello guest

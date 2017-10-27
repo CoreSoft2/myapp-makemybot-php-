@@ -1,0 +1,34 @@
+<div class="thumbnail">
+<div class="jumbotron">
+    <div class="text-orange">
+    <h4>[ <span class="fa fa-envelope-o"></span> ]</h4>
+    <hr class="hr-orange">
+    <form method="post" action="contact.php">
+    <fieldset>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-addon"><span class="fa fa-envelope-o"></span></div>
+                <input class="form-control" type="email" name="email" placeholder="e-mail" value="<?php if (isset($_SESSION["email"])) echo $_SESSION["email"]; ?>" required>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-addon"><span class="fa fa-th-large"></span></div>
+                <input class="form-control" type="text" name="subject"  placeholder="subject" required>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="input-group">
+                <div class="input-group-addon"><span class="fa fa-pencil"></span></div>
+                <textarea class="form-control" name="message" rows="5" placeholder="message" required></textarea>
+            </div>
+        </div>
+        <div class="form-group text-right">
+            <button onclick="backAction()" type="button" class="btn btn-default btn-lg min-width-lg">cancel</button>
+            <button type="submit" class="btn btn-orange btn-lg min-width-lg">submit</button>
+        </div>
+    </fieldset>
+</form>
+    </div>
+</div>
+</div>

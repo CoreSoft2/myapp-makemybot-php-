@@ -1,0 +1,15 @@
+! sub i'm = i am
+! var name = chatty
+
++ hello bot
+- hello guest
++ i am *
+- hello <star>
++ *
+- what?
++ *apple*
+- apples are tasty.
++ my favorite color is *
+- <set color=<star>>oh, I also love <get color>
++ who are you
+- i am <bot name> and my favorite color is <get color>
